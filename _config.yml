@@ -19,7 +19,7 @@ resume: true
 resume-external: false
 resume-url: assets/resume.pdf
 
-url: https://nicodemozilli.github.io/
+url: https://nicodemozilli.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
