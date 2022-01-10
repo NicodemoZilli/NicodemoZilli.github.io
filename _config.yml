@@ -1,9 +1,9 @@
 # main text of home
-name: John Doe
-bio: A Person who travels the world eating noodles
+name: Nicodemo  Zilli
+bio: Web Dev Full Stack - A person who works with passion
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: A portfolio about my own projects and stuff related
 
 # if it's an external image, update below for true
 # better with square images
@@ -16,10 +16,10 @@ dark-theme: true
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
-resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-external: false
+resume-url: assets/resume.pdf
 
-url: https://sergiokopplin.github.io/indigo
+url: https://nicodemozilli.github.io/indigo
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -33,12 +33,12 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-instagram: myinstagram
-linkedin: mylinkedin
-github: mygithub
-email: myemail@gmail.com
+facebook: https://www.facebook.com/nzillivazquez
+twitter: https://twitter.com/ZvNico?s=08
+instagram: https://www.instagram.com/nicodemozilli/
+linkedin: https://www.linkedin.com/in/david-nicodemo-zilli-vazquez-bab295201/
+github: https://github.com/NicodemoZilli/
+email: nicozv13@gmail.com
 
 authors:
   johndoe:
