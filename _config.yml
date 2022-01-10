@@ -1,6 +1,6 @@
 # main text of home
 name: Nicodemo  Zilli
-bio: A person who works with passion - Web Dev Full Stack - Java Dev
+bio: Let's Code our life
 
 # twitter summary info
 description: A portfolio about my own projects and stuff related
@@ -17,7 +17,7 @@ dark-theme: true
 # and specify source (external or local).
 resume: true
 resume-external: false
-resume-url: assets/resume.pdf
+resume-url: resume
 
 url: https://nicodemozilli.github.io
 # your url: https://USERNAME.github.io
@@ -29,7 +29,7 @@ permalink: /:title/
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
-  shortname: github # enter this from your disqus account
+  shortname: nicodemozilli-github-io # enter this from your disqus account
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
@@ -39,6 +39,15 @@ instagram: nicodemozilli
 linkedin: david-nicodemo-zilli-vazquez-bab295201
 github: NicodemoZilli
 email: nicozv13@gmail.com
+
+# pinterest: mypinterest
+spotify: NicodemoZilli
+# lastfm: mylastfm
+# stackoverflow: 7044681/mystackoverflow
+# quora: userquora
+# reddit: username
+# vimeo: myvimeo
+# lanyrd: mylanyrd
 
 authors:
   johndoe:
