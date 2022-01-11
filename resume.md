@@ -13,7 +13,7 @@ title: Resume
   text-decoration: none;
   outline: none;
   color: #fff;
-  background-color: #008CBA;
+  background-color: #F1C40F;
   border: none;
   border-radius: 15px;
   box-shadow: 0 9px #666;
