@@ -13,19 +13,18 @@ title: Resume
   text-decoration: none;
   outline: none;
   color: #fff;
-  background-color: #F1C40F;
+  background-color: #7D3C98;
   border: none;
   border-radius: 15px;
-  box-shadow: 0 9px #666;
 }
 
 .cvbutton:hover {
-  background-color: #4CAF50
+  background-color: #3498DB;
+  box-shadow: 0 12px 16px 0 rgba(255,255,255,0.24), 0 17px 50px 0 rgba(255,255,255,0.19);
 }
 
 .cvbutton:active {
-  background-color: #f44336;
-  box-shadow: 0 5px #555;
+  background-color: #424949;
   transform: translateY(4px);
 }
 </style>
