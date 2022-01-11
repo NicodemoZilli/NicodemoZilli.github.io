@@ -32,9 +32,10 @@ title: Resume
 # My résumé
 
 <center>
-<a class="cvbutton" href="/assets/docs/Rodolfo%20Ferro%20-%20CV%20(full).pdf" target="_blank"><span><img src="/assets/images/pdf.png" height="18px" style="padding-top:5px; margin-right:5px;">  Full Size </span></a>
-<a class="cvbutton" href="/assets/docs/Rodolfo%20Ferro%20-%20Resume.pdf" target="_blank"><span><img src="/assets/images/pdf.png" height="18px" style="padding-top:5px; margin-right:5px;">  One Page </span></a>
+<a class="cvbutton" href="/assets/docs/aca_resume.pdf" target="_blank"><span><img src="/assets/images/pdf.png" height="18px" style="padding-top:5px; margin-right:5px;">  Full Size </span></a>
+<a class="cvbutton" href="/assets/docs/resume.pdf" target="_blank"><span><img src="/assets/images/pdf.png" height="18px" style="padding-top:5px; margin-right:5px;">  One Page </span></a>
 </center>
+
 
 ---
 <i><b>Última actualización:</b> 10 de enero de 2022</i>
