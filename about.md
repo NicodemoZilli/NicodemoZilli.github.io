@@ -22,7 +22,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
 <ul class="skill-list">
 
-	{% for item in data.skills %}
+  {% for item in site.skills %}
 		<li>{{ item }}</li>
 	{% endfor %}
 
