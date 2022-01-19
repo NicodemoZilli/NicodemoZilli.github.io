@@ -40,7 +40,7 @@ title: Resume
 ---
 <i><b>Última actualización:</b> {% site.lastupdate %}</i>
 
-<h2>Experiecia:</h2>
+<h2>Experiencia:</h2>
 <ul>
   {% for _, item in site.experience.items() %}
   <li>
@@ -60,7 +60,7 @@ title: Resume
   {% endfor %}
 </ul>
 
-  
+
 <h4>EDUCACIÓN:</h4>
 <ul>
   <b>name</b> data <i>date</i>
