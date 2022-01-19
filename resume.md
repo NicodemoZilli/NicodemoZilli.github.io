@@ -38,21 +38,29 @@ title: Resume
 
 
 ---
-<i><b>Última actualización:</b> 10 de enero de 2022</i>
+<i><b>Última actualización:</b> {% site.lastupdate %}</i>
 
-<h4>ACTIVIDADES ACTUALES:</h4>
+<h2>Experiecia:</h2>
 <ul>
+  {% for _, item in site.experience.items() %}
   <li>
-    <b>name</b> data <i>date</i>
-  </li>
+    {% if _ != 'reference' %}
+      <h3>{{item.position}}</h3>
+      <h4>{{item.company}}</h4>
+      <p>{{ item.description }}</p>
+      {% if item.link %}
+        <p><a href="{{ item.link }}">Reference link.</a></p>
+      {% endif %}
+      <i >{{ item.from }} - {{ item.to }}</i>
 
+    {% else %}
+      <p>For a detailed reference about this section, please visit <a href="{{ item }}" target="_blank">this link</a>.</p>
+    {% endif %}
+    </li>
+  {% endfor %}
 </ul>
-<h4>ACTIVIDADES EXTRA:</h4>
-<ul>
-  <li>
-    <b>name</b> data <i>date</i>
-  </li>
-</ul>
+
+  
 <h4>EDUCACIÓN:</h4>
 <ul>
   <b>name</b> data <i>date</i>
