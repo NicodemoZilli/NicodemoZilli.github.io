@@ -7,46 +7,6 @@ aboutme:
     With the ability to learn and apply my knowledge in the professional field.
     Looking for an opportunity where I can develop my skills and gain experience.
 
-#Résumé
-
-lastupdate: 19 de enero 2022
-
-# Experience section
-experience:
-  item1:
-    position: Java Backend Developer
-    company: TecNM CENIDET
-    from: August 2021
-    to: December 2021
-    description: >
-      Developing a Backend Java application for calculating quality metrics of software architectures
-    link:
-  reference: https://nicodemozilli.github.io/resume/
-
-# Education section
-education:
-  item1:
-    institution: Tecnológico Nacional de México Campus Orizaba / ITO
-    program: Computerstystems Engineering.
-    description: Specialty in Web Engineering.
-    from: August 2017
-    to: December 2021
-  item2:
-    institution: Centro de Bachillerato Tecnológico Industrial y de Servicios No. 47 CBTIS No. 47
-    program: Support and Maintenance of Computer Equipment Technician.
-    description: Administration and repair of computer equipment and networks.
-    cedprof: CED. PROF. 12557082
-    from: August 2014
-    to: July 2017
-
-# Production
-production:
-  item1:
-    event: Coloquio de Investigación Multidisciplinaria CIM Octubre 2018, TecNM campus Orizaba
-    topic: Educational Research, "Análisis de la realidad del aprendizaje de programación en el Instituto Tecnológico de Orizaba"
-    material: static/docs/material-CIM2018.pdf
-    link: http://cim.orizaba.tecnm.mx/?page_id=161
-
 # Certifications and awards section
 courses:
   - Open Data Science 21-25 October 2019

@@ -38,47 +38,38 @@ title: Resume
 
 
 ---
-<i><b>Última actualización:</b> {{ site.lastupdate }}</i>
+<i><b>Last Update:</b> January 19th 2022</i>
 
 
-<h2>Experiencia:</h2>
+<h4>Experience:</h4>
 <ul>
-{% for item in site.experience.items() %}
     <li>
-      <h3>{{ item.position }}</h3>
-      <h4>{{ item.company }}</h4>
-      <p>{{ item.description }}</p>
-      {% if item.link %}
-        <p><a href="{{ item.link }}">Reference link.</a></p>
-      {% endif %}
-      <i >{{ item.from }} - {{ item.to }}</i>
+      <b>Java Backend Developer TecNM CENIDET</b>
+      Developing a Backend Java application for calculating quality metrics of software architectures
+      <i >August 2021 - December 2021</i>
     </li>
-{% endfor %}
 </ul>
 
-<h4>EDUCACIÓN:</h4>
+<h4>Education:</h4>
 <ul>
-  <b>name</b> data <i>date</i>
-
+  <b>Computerstystems Engineering, Tecnológico Nacional de México Campus Orizaba / ITO </b> Specialty in Web Engineering <i> August 2017 - December 2021 </i>
 </ul>
-<h4>DESARROLLO PROFESIONAL / ACTIVIDADES LABORALES:</h4>
 <ul>
-  <b>name</b> data <i>date</i>
-
-</ul>
-<h4>PROYECTOS / EMPRENDIMIENTO / PARTICIPACIÓN EN PROGRAMAS, EVENTOS, ACTIVIDADES:</h4>
-<ul>
-  <b>name</b> data <i>date</i>
-
+  <b>Support and Maintenance of Computer Equipment Technician, Centro de Bachillerato Tecnológico Industrial y de Servicios No. 47 CBTIS No. 47 </b> CED. PROF. 12557082 <i> August 2014 - July 2017 </i>
 </ul>
 
-<h4>CONCURSOS / COMPETENCIAS, PREMIOS Y DISTINCIONES:</h4>
+<h4>Scientific Production:</h4>
 <ul>
-  <b>name</b> data <i>date</i>
+  <b>Coloquio de Investigación Multidisciplinaria CIM, TecNM campus Orizaba</b>
+  Educational Research, "Análisis de la realidad del aprendizaje de programación en el Instituto Tecnológico de Orizaba"
+  <a href="static/docs/material-CIM2018.pdf" target="_blank">material<a/>
+  <a href="static/docs/material-CIM2018.pdf" target="_blank">event site<a/>
+  <i>Octubre 2018</i>
 
 </ul>
-<h4>PERTENENCIA / ACTIVIDADES DE PARTICIPACIÓN SOCIAL:</h4>
+<h4>Courses:</h4>
 <ul>
-  <b>name</b> data <i>date</i>
-
+ {% for item in site.courses %}
+  <b>item</b>
+ {% endfor%}
 </ul>
