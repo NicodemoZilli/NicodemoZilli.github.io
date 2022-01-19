@@ -74,11 +74,9 @@ title: Resume
 </ul>
 <h4>Courses:</h4>
 <ul>
-  <li>
-    <b>Open Data Science</b><i>21-25 October 2019</i>
-    <b>Arduino and Some Applications</b><i>15-27 October 2019</i>
-    <b>Master Programmer</b><i>12 September 2019</i>
-    <b>Git Version Control</b><i>June 2019</i>
-    <b>Python Programming</b><i>21-25 October 2017</i>
-  </li>
+  <li><b>Open Data Science</b><i>21-25 October 2019</i></li>
+  <li><b>Arduino and Some Applications</b><i>15-27 October 2019</i></li>
+  <li><b>Master Programmer</b><i>12 September 2019</i></li>
+  <li><b>Git Version Control</b><i>June 2019</i></li>
+  <li><b>Python Programming</b><i>21-25 October 2017</i></li>
 </ul>
