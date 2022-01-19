@@ -61,15 +61,14 @@ title: Resume
 <h4>Scientific Production:</h4>
 <ul>
   <b>Coloquio de Investigación Multidisciplinaria CIM, TecNM campus Orizaba</b>
-  Educational Research, "Análisis de la realidad del aprendizaje de programación en el Instituto Tecnológico de Orizaba"
-  <a href="static/docs/material-CIM2018.pdf" target="_blank">material<a/>
-  <a href="static/docs/material-CIM2018.pdf" target="_blank">event site<a/>
+  Educational Research, "Análisis de la realidad del aprendizaje de programación en el Instituto Tecnológico de Orizaba"  
   <i>Octubre 2018</i>
-
+  <br><a href="static/docs/material-CIM2018.pdf" target="_blank">material</a>
+  <br><a href="static/docs/material-CIM2018.pdf" target="_blank">event site</a>
 </ul>
 <h4>Courses:</h4>
 <ul>
  {% for item in site.courses %}
-  <b>item</b>
+  <b>{{item}}</b><br>
  {% endfor%}
 </ul>
