@@ -44,7 +44,6 @@ title: Resume
 <h2>Experiencia:</h2>
 <ul>
 {% for item in site.experience.items() %}
-  {% if item != 'reference' %}
     <li>
       <h3>{{ item.position }}</h3>
       <h4>{{ item.company }}</h4>
@@ -54,9 +53,6 @@ title: Resume
       {% endif %}
       <i >{{ item.from }} - {{ item.to }}</i>
     </li>
-  {% else %}
-  <p>For a detailed reference about this section, please visit <a href="{{ item }}" target="_blank">this link</a>.</p>
-  {% endif %}
 {% endfor %}
 </ul>
 
