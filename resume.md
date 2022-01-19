@@ -42,7 +42,7 @@ title: Resume
 
 <h2>Experiencia:</h2>
 <ul>
-  {% for _, item in site.experience.items() %}
+  {% for item in site.experience.items() %}
   <li>
     {% if _ != 'reference' %}
       <h3>{{item.position}}</h3>
