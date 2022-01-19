@@ -52,23 +52,33 @@ title: Resume
 
 <h4>Education:</h4>
 <ul>
-  <b>Computerstystems Engineering, Tecnológico Nacional de México Campus Orizaba / ITO </b> Specialty in Web Engineering <i> August 2017 - December 2021 </i>
+  <li>
+    <b>Computerstystems Engineering, Tecnológico Nacional de México Campus Orizaba / ITO </b> Specialty in Web Engineering <i> August 2017 - December 2021 </i>
+  </li>
 </ul>
 <ul>
-  <b>Support and Maintenance of Computer Equipment Technician, Centro de Bachillerato Tecnológico Industrial y de Servicios No. 47 CBTIS No. 47 </b> CED. PROF. 12557082 <i> August 2014 - July 2017 </i>
+  <li>
+    <b>Support and Maintenance of Computer Equipment Technician, Centro de Bachillerato Tecnológico Industrial y de Servicios No. 47 CBTIS No. 47 </b> CED. PROF. 12557082 <i> August 2014 - July 2017 </i>
+  </li>
 </ul>
 
 <h4>Scientific Production:</h4>
 <ul>
-  <b>Coloquio de Investigación Multidisciplinaria CIM, TecNM campus Orizaba</b>
-  Educational Research, "Análisis de la realidad del aprendizaje de programación en el Instituto Tecnológico de Orizaba"  
-  <i>Octubre 2018</i>
-  <br><a href="assets/docs/material-CIM2018.pdf" target="_blank">material</a>
-  <br><a href="http://cim.orizaba.tecnm.mx/?page_id=161" target="_blank">event site</a>
+  <li>
+    <b>Coloquio de Investigación Multidisciplinaria CIM, TecNM campus Orizaba</b>
+    Educational Research, "Análisis de la realidad del aprendizaje de programación en el Instituto Tecnológico de Orizaba"  
+    <i>Octubre 2018</i>
+    <br><a href="assets/docs/material-CIM2018.pdf" target="_blank">material</a>
+    <br><a href="http://cim.orizaba.tecnm.mx/?page_id=161" target="_blank">event site</a>
+  </li>
 </ul>
 <h4>Courses:</h4>
 <ul>
- {% for item in site.courses %}
-  <b>{{item}}</b><br>
- {% endfor%}
+  <li>
+    <b>Open Data Science</b><i>21-25 October 2019</i>
+    <b>Arduino and Some Applications</b><i>15-27 October 2019</i>
+    <b>Master Programmer</b><i>12 September 2019</i>
+    <b>Git Version Control</b><i>June 2019</i>
+    <b>Python Programming</b><i>21-25 October 2017</i>
+  </li>
 </ul>
