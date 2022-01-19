@@ -1,6 +1,12 @@
 # main text of home
 name: Nicodemo  Zilli
 bio: Code it, Run it, Live it!
+description:
+    I'm a Computer Systems Engineer, specializing in Web Engineering.
+    Full Stack Web Developer, interested in the ethical development of Artificial Intelligence.
+    With the ability to learn and apply my knowledge in the professional field.
+    Looking for an opportunity where I can develop my skills and gain experience.
+
 
 # twitter summary info
 description: A portfolio about my own projects and stuff related
