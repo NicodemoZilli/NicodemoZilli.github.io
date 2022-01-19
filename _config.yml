@@ -99,9 +99,9 @@ dark-theme: true
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
-resume-external: true
-#resume-url: resume
-resume-url: https://nicodemozilli.glitch.me
+resume-external: false
+resume-url: resume
+#resume-url: https://nicodemozilli.glitch.me
 
 url: https://nicodemozilli.github.io
 # your url: https://USERNAME.github.io
