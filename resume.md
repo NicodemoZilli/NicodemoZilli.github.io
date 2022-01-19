@@ -43,7 +43,7 @@ title: Resume
 
 <h2>Experiencia:</h2>
 <ul>
-  { % for item in site.experience.items() %}
+{% for item in site.experience.items() %}
   <li>
       <h3>{{ item.position }}</h3>
       <h4>{{ item.company }}</h4>
@@ -53,7 +53,7 @@ title: Resume
       {% endif %}
       <i >{{ item.from }} - {{ item.to }}</i>
     </li>
-  {% endfor %}
+{% endfor %}
 </ul>
 
 <h4>EDUCACIÓN:</h4>
