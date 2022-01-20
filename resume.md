@@ -33,7 +33,10 @@ title: Resume
 
 <center>
 <a class="cvbutton" href="/assets/docs/aca_resume.pdf" target="_blank"><span><img src="/assets/images/pdf.png" height="18px" style="padding-top:5px; margin-right:5px;">  Full Size </span></a>
+
 <a class="cvbutton" href="/assets/docs/resume.pdf" target="_blank"><span><img src="/assets/images/pdf.png" height="18px" style="padding-top:5px; margin-right:5px;">  One Page </span></a>
+
+<a class="cvbutton" href="https://nicodemozilli.glitch.me" target="_blank"><span> Check out my flask-based resume </span></a>
 </center>
 
 
