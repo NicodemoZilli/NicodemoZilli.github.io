@@ -8,6 +8,7 @@ title: Resume
   display: inline-block;
   padding: 13px 25px;
   margin-right:5px;
+  margin-bottom: 20px;
   font-size: 1.2em;
   cursor: pointer;
   text-align: center;
@@ -31,7 +32,6 @@ title: Resume
 @media (max-width: 400px){
   .cvbutton {
     display: block;
-    margin-bottom: 20px;
   }
 }
 </style>
@@ -43,7 +43,6 @@ title: Resume
 
 <a class="cvbutton" href="/assets/docs/resume.pdf" target="_blank"><span><img src="/assets/images/pdf.png" height="18px" style="padding-top:5px; margin-right:5px;">  One Page </span></a>
 
-<br><br>
 <a class="cvbutton" href="https://nicodemozilli.glitch.me" target="_blank"><span> Check out my flask-based resume </span></a>
 </center>
 
