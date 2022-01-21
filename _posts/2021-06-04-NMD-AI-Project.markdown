@@ -10,7 +10,7 @@ hidden: true # don't count this post in blog pagination
 description: "A Mask Detector Web page power by Ml5.js"
 category: project
 author: nicodemozilli
-externalLink: https://nicodemozilli.github.io/NMD/
+externalLink: false
 ---
 
 #### *See this project in action [NMD - No Mask Detector](https://nicodemozilli.github.io/NMD/)*
