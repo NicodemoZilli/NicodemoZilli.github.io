@@ -7,10 +7,10 @@ image: ../assets/images/nmd/NMD-Capture.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
+description: "A Mask Detector Web page power by Ml5.js"
 category: project
 author: nicodemozilli
-externalLink: https://nicodemozilli.github.io/NMD/
+externalLink: false
 ---
 
 # NMD - No Mack Detector
