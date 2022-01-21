@@ -39,8 +39,8 @@ A ***convolutional neural network (CNN)*** can be understood as a deep learning 
 
 The preprocessing required in a convolutional neural network is much less compared to other classification algorithms. While in primitive methods the filters to perform such classifications are designed by hand, a convolutional neural network with sufficient training has the ability to learn these filters or features.
 
-	![CNN Image](../assets/images/nmd/CNN.png)
-	*Representative illustration of Convolutional Neural Network 	Functioning*
+![CNN Image](../assets/images/nmd/CNN.png)
+*Representative illustration of Convolutional Neural Network 	Functioning*
 
 No Mask Detector seeks to train and use a convolutional neural network that allows us to identify whether or not a person is wearing a mask, seeking to be focused to improve access control to places that require mandatory use of masks when entering the establishment, or place.
 
@@ -184,11 +184,10 @@ The operation of the No Mask Detector application is based firstly on a training
 	<img src="../assets/images/nmd/hector.png" width=450>
 	<img src="../assets/images/nmd/mariana.png" width=450>
 	<img src="../assets/images/nmd/jenni.png" width=450>
-
+</center>
 
 ## [Explanatory Video](https://www.youtube.com/watch?v=ZJ14-LaC998)
 
 [![Video Image](../assets/images/nmd/video.png)](https://www.youtube.com/watch?v=ZJ14-LaC998)
 
 ##### Coded with 💜 by [Nicodemo Zilli](https://nicodemozilli.github.io)
-</center>
