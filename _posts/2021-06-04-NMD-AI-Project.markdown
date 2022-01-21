@@ -1,3 +1,18 @@
+---
+title: "NMD - No Mask Dtector"
+layout: post
+date: 2021-04-04 13:00
+tag: ml5
+image: ../assets/images/nmd/NMD-Capture.png
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
+category: project
+author: nicodemozilli
+externalLink: https://nicodemozilli.github.io/NMD/
+---
+
 # NMD - No Mack Detector
 
 ![NMD Image](../assets/images/nmd/NMD-Capture.png)
