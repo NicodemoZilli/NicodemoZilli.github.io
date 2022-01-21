@@ -2,7 +2,7 @@
 title: "NMD - No Mask Dtector"
 layout: post
 date: 2021-04-04 13:00
-tag: ml5
+tag: ML5.js, HTML, JS
 image: ../assets/images/nmd/NMD-Capture.png
 headerImage: true
 projects: true
