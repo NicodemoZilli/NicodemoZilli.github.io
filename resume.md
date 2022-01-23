@@ -78,7 +78,7 @@ title: Resume
     <b>Coloquio de Investigación Multidisciplinaria CIM, TecNM campus Orizaba</b>
     Educational Research, "Análisis de la realidad del aprendizaje de programación en el Instituto Tecnológico de Orizaba"  
     <i>October 2018</i>
-    <br><a href="assets/docs/material-CIM2018.pdf" target="_blank">material</a>
+    <br><a href="/assets/docs/material-CIM2018.pdf" target="_blank">material</a>
     <br><a href="http://cim.orizaba.tecnm.mx/?page_id=161" target="_blank">event site</a>
   </li>
 </ul>
