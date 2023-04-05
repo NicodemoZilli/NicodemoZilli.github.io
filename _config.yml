@@ -57,7 +57,7 @@ resume-external: false
 resume-url: resume
 #resume-url: https://nicodemozilli.glitch.me
 
-url: https://nicodemozilli.me
+url: https://nicodemozilli.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
